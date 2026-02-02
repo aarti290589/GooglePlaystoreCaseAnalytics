@@ -76,3 +76,14 @@ These help identify performance trends, rating distributions, and app characteri
 
 ```bash
 pip install pandas matplotlib seaborn numpy
+
+2. Open Jupyter:
+
+jupyter notebook
+
+3.Run cells sequentially.
+
+## Author:
+Karuna Srivastava
+
+
