@@ -83,7 +83,6 @@ jupyter notebook
 
 3.Run cells sequentially.
 
-## Author:
-Karuna Srivastava
+
 
 
