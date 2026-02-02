@@ -14,20 +14,21 @@ NumPy — Numerical operations
 
 
 📂 Dataset Description
-The dataset contains information about mobile applications, including:
-Column	Description
-App	Application name
-Category	App category
-Rating	User rating
-Reviews	Number of user reviews
-Size	App size
-Installs	Number of installs
-Type	Free or Paid
-Price	App price
-Content Rating	Target audience age group
-Genres	App genre
-Last Updated	Last update date
-Android Ver	Minimum Android version required
+| Column         | Description                      |
+| -------------- | -------------------------------- |
+| App            | Application name                 |
+| Category       | App category                     |
+| Rating         | User rating                      |
+| Reviews        | Number of user reviews           |
+| Size           | App size                         |
+| Installs       | Number of installs               |
+| Type           | Free or Paid                     |
+| Price          | App price                        |
+| Content Rating | Target audience age group        |
+| Genres         | App genre                        |
+| Last Updated   | Last update date                 |
+| Android Ver    | Minimum Android version required |
+
 
 
 🔎 Key Analysis Performed
@@ -69,6 +70,7 @@ pip install pandas matplotlib seaborn numpy
 
 Open the notebook:
 jupyter notebook
+
 Run cells sequentially to reproduce the analysis and visualizations.
 
 ✨ Author
