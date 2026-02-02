@@ -1,5 +1,6 @@
 # GooglePlaystoreCaseAnalytics
-📊 Data Visualization in Python — Case Study
+📊** Data Visualization in Python — Case Study**
+
 📌 Overview
 This case study focuses on exploring and visualizing app store data using Python. The objective is to understand trends, patterns, and relationships in app characteristics such as ratings, installs, genres, Android versions, and content categories through visual analytics.
 
